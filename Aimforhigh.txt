@@ -12,4 +12,7 @@ With the help of GIT ,we can maintain local repository so that we can work anywh
  
  +
  +
+ first edit:
+ With the help of GIT other programmers can access our file which is called fork in their repository and we can merge their file if it satisfies our code requirements..
+ 
  
