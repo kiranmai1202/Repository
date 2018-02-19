@@ -1,0 +1,15 @@
+Learn new technologies
+
+GIT is a distributed version controlling system.
+SVN is centralized version controlling system.
+
+With the help of GIT ,we can maintain local repository so that we can work anywhere though there is no internet
+ and also no need to worry if the server crashes or someone hacks.we can push copy of our file in local repository which is a secure method..
+ 
+ 
+ 
+ 
+ 
+ +
+ +
+ 
