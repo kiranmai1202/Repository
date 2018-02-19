@@ -16,3 +16,5 @@ With the help of GIT ,we can maintain local repository so that we can work anywh
  With the help of GIT other programmers can access our file which is called fork in their repository and we can merge their file if it satisfies our code requirements..
  
  
+second edit:
+In real time..we can use this master branch and new branch for the addition of new features.For example if we feel there should be no necessary changes required and this is the final copy,we can add to master branch .otherwise till our file is exception free and completely validated and verified we can create seperate branch and maintain this code in our repository.Later final verification we can merge this
